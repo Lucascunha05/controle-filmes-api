@@ -134,6 +134,23 @@ Método: GET
 
 URL: http://localhost:3000/v1/controle-filmes/filtro/filme?nome=poderoso
 
-📝 Licença
-Este projeto está licenciado sob a MIT License.
+
+
+
+🗂️ Estrutura do Banco de Dados
+O banco de dados db_controle_filmes contém uma tabela chamada tbl_filme com a seguinte estrutura:
+
+id: Identificador único do filme (chave primária, autoincremento).
+
+nome: Nome do filme.
+
+duracao: Duração do filme no formato HH:MM:SS.
+
+sinopse: Descrição breve do filme.
+
+data_lancamento: Data de lançamento do filme.
+
+foto_capa: URL da imagem de capa do filme.
+pt.slideshare.net
+researchgate.net
 
