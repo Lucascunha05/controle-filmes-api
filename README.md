@@ -33,6 +33,7 @@ fecef-flix-api/
 ├── .env
 ├── package.json
 └── README.md
+
 📦 Instalação
 Clone o repositório:
 
@@ -66,6 +67,7 @@ Copiar
 Editar
 npm start
 O servidor estará disponível em http://localhost:3000.
+
 
 🧪 Endpoints da API
 1. Listar todos os filmes
