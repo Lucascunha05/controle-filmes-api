@@ -1,7 +1,11 @@
 .
 
 🎬 FECAF Flix API
+
+
 📖 Descrição
+
+
 A FECAF Flix API é uma aplicação back-end desenvolvida para gerenciar e disponibilizar informações sobre filmes de um acervo. Utilizando o padrão MVC (Model-View-Controller) e a arquitetura RESTful, a API permite listar todos os filmes, buscar filmes por ID e filtrar filmes por nome ou sinopse.
 
 ⚙️ Tecnologias Utilizadas
